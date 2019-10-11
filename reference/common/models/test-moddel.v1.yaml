@@ -1,5 +1,0 @@
-title: test-moddel
-type: object
-properties:
-  id:
-    type: string
